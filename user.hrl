@@ -1,0 +1,1 @@
+-record(user,{name,age,v}).
